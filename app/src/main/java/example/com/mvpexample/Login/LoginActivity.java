@@ -42,7 +42,7 @@ public class LoginActivity extends AppCompatActivity implements  LoginView{
 
         ButterKnife.bind(LoginActivity.this);
 
-        loginPresenter= new LoginPresenterImpl(this);
+        loginPresenter = new LoginPresenterImpl(this);
 
         mProgressDialog = new ProgressDialog(LoginActivity.this);
         mProgressDialog.setMessage("Signing........");

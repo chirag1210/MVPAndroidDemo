@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-import example.com.mvpexample.Login.LoginActivity;
+import example.com.mvpexample.Login1.LoginActivity;
 import example.com.mvpexample.main.MainPresenter;
 import example.com.mvpexample.main.MainPresenterImpl;
 import example.com.mvpexample.main.MainView;
